@@ -2,8 +2,9 @@
 
 ### Python
 ### Keras
+### Deep Learning
 ### CNN - Rede neural convolucional (Convolutional neural network)
-### transfer learning
+### Transfer learning
 ### Data Aumentation
 ### Arquitetura ResNet50
 ### Data augmentation (deve ser aplicado somente no conjunto de dados de treinamento)
